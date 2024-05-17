@@ -10,15 +10,15 @@ with novel ideas to reach Artificial general intelligence.
 Projects with the 🐙 symbol have been made under the Octopus AI collaboration.
 
 - [**multi-digit recognition**](https://github.com/MarcoEterno/multi-digit-recognition):
-  - Skills: Pytorch, CNN, Computer Vision
+  - Skills: Pytorch, CNN, Computer Vision, Coding
   - Stage: Completed
-  - Description: Trained from scratch a CNN to recognize multi-digit numbers in images.
+  - Description: Trained from scratch a CNN to recognize multi-digit numbers in black and white images.
   
 
 - [**gpt2**](https://github.com/MarcoEterno/gpt2)🐙
   - Skills: Pytorch, Transformers, Language Models Architectures
   - Stage: Core functionality almost completed, still experimenting
-  - Description: Trained from scratch a GPT2 sized model on my Macbook, and experimented with variations of the architecture
+  - Description: Trained from scratch a GPT2 sized model on my Macbook, and experimented with variations of the architecture.
 
 - [**covid-19-testing-improvement**](https://github.com/MarcoEterno/covid-19-testing-improvement)
   - Skills: Biotechnology, Problem solving, Recruiting, Selling
@@ -30,7 +30,7 @@ Projects with the 🐙 symbol have been made under the Octopus AI collaboration.
 - [**master-thesis**](https://github.com/MarcoEterno/master-thesis)
   - Skills: Macroeconomics, Econophysics, C, Data Analysis.
   - Stage: Completed
-  - Description 
+  - Description: Found an optimal fiscal and monetary policy in order to follow any objective of the state. Created a thermodynamic model of the economy where taxes, consumtption and production are taken into account.
 - [**frameformer-architecture**](https://github.com/MarcoEterno/frameformer-architecture)🐙
   - Skills: AI Research, Langchain
   - Stage: Core objective reached, still experimenting
