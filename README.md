@@ -5,6 +5,8 @@ in October 2023 I started [Octopus AI](https://github.com/MarcoEterno/octopus-ai
 researchers and companies to experiment
 with novel ideas to reach Artificial general intelligence.
 
+Here is my full [resume](https://github.com/MarcoEterno/resume).
+
 
 # Main Projects
 Projects with the 🐙 symbol have been made under the Octopus AI collaboration.
